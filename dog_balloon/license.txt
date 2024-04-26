@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dog Balloon
+* source:	https://sketchfab.com/3d-models/dog-balloon-590c09f8407e46f5a1abce50c6bb790f
+* author:	Criistinaa (https://sketchfab.com/Criistinaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dog Balloon" (https://sketchfab.com/3d-models/dog-balloon-590c09f8407e46f5a1abce50c6bb790f) by Criistinaa (https://sketchfab.com/Criistinaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
